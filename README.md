@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-**Biomedical Engineer & AI Engineer**
+**Biomedical & AI Engineer**
 
 ### About Me
 I am passionate about Artificial Intelligence and its potential to transform the world as we know it. With a strong background in machine learning and data science, I love working on innovative projects that push the boundaries of technology.
